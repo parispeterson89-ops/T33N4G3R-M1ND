@@ -1,4 +1,4 @@
-## It is simple one, but you can amuse yourself with yourself by chatting with it... and if you can upgrade it, let me know, I had this problem with the autonomous inputs that I can`t cut it while the user starts writing, so it kinda speaks over you!
+## It is simple one, but you can amuse yourself with yourself by chatting with it... and if you can upgrade it, let me know, I had this problem with the autonomous inputs that I can't cut it while the user starts writing, so it kinda speaks over you!
 
 
   import os
