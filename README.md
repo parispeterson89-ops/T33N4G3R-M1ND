@@ -1,11 +1,11 @@
-## It is simple one, but you can amuse yourself with yourself by chatting with it... and if you can upgrade it, let me know, I had this problem with the autonomous inputs that I can't cut it while the user starts writing, so it kinda speaks over you!
+## It is a simple one, but you can amuse yourself by chatting with it. And if you can upgrade it, let me know. I had this problem with the autonomous inputs that I can't cut while the user starts writing, so it kind of speaks over you!
 
 
   import os
   import random
   import time
   import threading
-  import colorama
+  import Colorama
   import re
   from collections import Counter
   from colorama import Fore, Style
@@ -21,7 +21,7 @@ recent_inputs = []  # To store recent user inputs
 allow_autonomous_output = True  # Flag to control autonomous output
 
 def normalize_popularity(folder_path):
-    """Normalize popularity values in response files."""
+    """ Normalize popularity values in response files."""
     sen_file_path = os.path.join(folder_path, "sen.txt")
     res_file_path = os.path.join(folder_path, "res.txt")
 
